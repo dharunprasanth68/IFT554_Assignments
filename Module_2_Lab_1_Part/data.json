@@ -1,0 +1,29 @@
+[
+    {
+    "id": 0,
+    "courseName": "IFT 554",
+    "image":"👻",
+    "from": "Information Technology",
+    "student": "Dharun Prasanth",
+    "credits": "4",
+    "description": "Intro to middleware programming"
+    },
+   { 
+    "id": 1,
+    "courseName": "IFT 554",
+    "image":"😶‍🌫️",
+    "from": "Information Technology",
+    "student": "ddd",
+    "credits": "4",
+    "description": "Intro to middleware programming"
+    },
+    { 
+    "id": 2,
+    "courseName": "IFT 554",
+    "image":"🫣",
+    "from": "Information Technology",
+    "student": "ppp",
+    "credits": "4",
+    "description": "Intro to middleware programming"
+    }
+]
